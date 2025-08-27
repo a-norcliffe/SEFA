@@ -1,0 +1,17 @@
+{
+  "hidden_dim": 100,
+  "num_hidden_actor": 2,
+  "num_hidden_critic": 2,
+  "gamma": 0.95,
+  "lambda_gae": 0.95,
+  "lambda_entropy": 0.01,
+  "grad_norm": 1.0,
+  "num_episodes": 400,
+  "num_epochs_per_episode": 5,
+  "rollout_batchsize": 256,
+  "optimization_batchsize":128,
+  "use_surrogate": false,
+  "num_samples_auxiliary": 5,
+  "lr": 0.001,
+  "patience": 5
+}

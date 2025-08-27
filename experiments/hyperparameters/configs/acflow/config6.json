@@ -1,0 +1,15 @@
+{
+  "hidden_dim_prior": 100,
+  "num_hidden_prior": 2,
+  "num_flow_modules": 5,
+  "hidden_dim_flow": 100,
+  "num_hidden_flow": 2,
+  "lambda_nll": 0.3,
+  "lambda_xent_sub": 1.0,
+  "lambda_xent_full": 1.0,
+  "num_samples_acquire": 50,
+  "epochs": 60,
+  "lr": 0.001,
+  "batchsize": 256,
+  "patience": 5
+}

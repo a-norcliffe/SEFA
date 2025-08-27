@@ -1,0 +1,8 @@
+{
+  "hidden_dim": 300,
+  "num_hidden": 2,
+  "epochs": 120,
+  "lr": 1e-3,
+  "batchsize": 256,
+  "patience": 5
+}

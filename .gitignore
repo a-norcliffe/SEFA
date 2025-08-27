@@ -1,0 +1,11 @@
+**/__pycache__/
+
+.vscode/
+.pytest_cache/
+datasets/data/
+plots/
+
+experiments/trained_models/
+experiments/hyperparameters/tuning_results/
+experiments/hyperparameters/tuning_tmp/
+experiments/results/

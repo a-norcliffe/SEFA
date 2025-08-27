@@ -1,0 +1,9 @@
+{
+  "hidden_dim": 100,
+  "num_hidden": 1,
+  "gamma": 0.25,
+  "num_samples_predict": 50,
+  "num_episodes": 20000,
+  "lr": 1e-3,
+  "batchsize": 128
+}

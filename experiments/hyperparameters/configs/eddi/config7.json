@@ -1,0 +1,15 @@
+{
+  "c_dim": 250,
+  "latent_dim": 250,
+  "num_hidden_decoder": 2,
+  "hidden_dim_decoder": 100,
+  "num_hidden_encoder": 3,
+  "hidden_dim_encoder": 100,
+  "epochs": 400,
+  "lr": 1e-3,
+  "batchsize": 128,
+  "num_samples_acquire": 50,
+  "num_samples_predict": 20,
+  "sig": 0.2,
+  "patience": 5
+}

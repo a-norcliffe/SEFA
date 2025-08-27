@@ -1,0 +1,15 @@
+{
+  "latent_dim": 8,
+  "num_hidden_predictor": 1,
+  "hidden_dim_predictor": 250,
+  "num_hidden_encoder": 1,
+  "hidden_dim_encoder": 100,
+  "num_samples_train": 100,
+  "num_samples_predict": 200,
+  "num_samples_acquire": 200,
+  "beta": 0.0001,
+  "epochs": 120,
+  "lr": 1e-3,
+  "batchsize": 256,
+  "patience": 5
+}

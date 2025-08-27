@@ -1,0 +1,12 @@
+{
+  "hidden_dim": 200,
+  "num_hidden": 2,
+  "share_parameters": false,
+  "pretrain_epochs": 80,
+  "pretrain_lr": 1e-3,
+  "epochs": 15,
+  "lr": 1e-3,
+  "batchsize": 128,
+  "patience": 5,
+  "eps_initial": 0.4
+}
